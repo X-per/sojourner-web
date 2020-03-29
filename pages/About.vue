@@ -28,7 +28,7 @@
           <span><a href="https://github.com/loomchild/sojourner-web">Github</a></span>
         </p>
         <v-row>
-          <v-col cols="12" sm="9" class="mt-4 about-text">
+          <v-col cols="12" sm="9" class="mt-6 about-text">
             <p class="story">
               Sojourner is a conference companion. It is inspired by the original Sojourner mobile app for Nokia N900.
             </p>
