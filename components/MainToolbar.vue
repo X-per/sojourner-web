@@ -8,7 +8,7 @@
     <v-spacer></v-spacer>
   </v-toolbar>
   <v-toolbar v-else app absolute flat height="82px">
-    <v-layout class="mx-auto">
+    <v-row class="mx-auto">
       <v-toolbar-title v-ripple v-go="'/'" class="logo" prepend-icon="home" />
       <v-spacer></v-spacer>
       <v-btn flat dark class="mx-0" :ripple="false" to="/">
@@ -39,7 +39,7 @@
           person
         </v-icon>
       </v-btn>
-    </v-layout>
+    </v-row>
   </v-toolbar>
 </template>
 
